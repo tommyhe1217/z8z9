@@ -51,5 +51,5 @@ jobs:
           IGOT_PUSH_KEY: ${{ secrets.IGOT_PUSH_KEY }}
           QQ_SKEY: ${{ secrets.QQ_SKEY}}
           QQ_MODE: ${{ secrets.QQ_MODE}}
-          jx_tokens: ${{ secrets.jx_tokens}}
+          JX_TOKENS: ${{ secrets.JX_TOKENS}}
           
